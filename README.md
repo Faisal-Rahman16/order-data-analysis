@@ -1,4 +1,4 @@
-In this project, I extracted order data from Kaggle using Python and performed data analysis to derive business insights. I started by loading and exploring the dataset,
+In this project, I extracted Amazon order data from Kaggle using Python and performed data analysis to derive business insights. I started by loading and exploring the dataset,
 carrying out necessary preprocessing steps like handling missing values, cleaning data, and transforming it into a structured format for analysis.
 
 Using Python, I leveraged libraries such as Pandas for data manipulation. After completing the Python analysis,
